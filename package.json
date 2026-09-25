@@ -1,0 +1,6 @@
+{
+  "name": "meow-courtyard", "version": "1.0.0", "private": true,
+  "description": "喵呜庭院 · 离线猫咪养成与二合一合成游戏",
+  "scripts": {"dev": "node server.cjs", "start": "node server.cjs", "test": "node --test tests/engine.test.cjs tests/assets.test.cjs", "build": "node tools/build.cjs"},
+  "engines": {"node": ">=18"}
+}

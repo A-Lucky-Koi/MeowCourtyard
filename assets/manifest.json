@@ -1,0 +1,3173 @@
+{
+  "version": 1,
+  "generator": "Built-in image_gen",
+  "cats": [
+    {
+      "file": "assets/cats/cat-01-walk1.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-1.png",
+      "sourceRect": {
+        "x": 0,
+        "y": 0,
+        "w": 229,
+        "h": 244
+      },
+      "species_id": 0,
+      "pose": "walk1"
+    },
+    {
+      "file": "assets/cats/cat-01-walk2.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-1.png",
+      "sourceRect": {
+        "x": 229,
+        "y": 0,
+        "w": 229,
+        "h": 244
+      },
+      "species_id": 0,
+      "pose": "walk2"
+    },
+    {
+      "file": "assets/cats/cat-01-eat.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-1.png",
+      "sourceRect": {
+        "x": 458,
+        "y": 0,
+        "w": 229,
+        "h": 244
+      },
+      "species_id": 0,
+      "pose": "eat"
+    },
+    {
+      "file": "assets/cats/cat-01-sleep.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-1.png",
+      "sourceRect": {
+        "x": 687,
+        "y": 0,
+        "w": 229,
+        "h": 244
+      },
+      "species_id": 0,
+      "pose": "sleep"
+    },
+    {
+      "file": "assets/cats/cat-01-purr.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-1.png",
+      "sourceRect": {
+        "x": 916,
+        "y": 0,
+        "w": 229,
+        "h": 244
+      },
+      "species_id": 0,
+      "pose": "purr"
+    },
+    {
+      "file": "assets/cats/cat-01-sun.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-1.png",
+      "sourceRect": {
+        "x": 1145,
+        "y": 0,
+        "w": 229,
+        "h": 244
+      },
+      "species_id": 0,
+      "pose": "sun"
+    },
+    {
+      "file": "assets/cats/cat-02-walk1.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-1.png",
+      "sourceRect": {
+        "x": 0,
+        "y": 244,
+        "w": 232,
+        "h": 232
+      },
+      "species_id": 1,
+      "pose": "walk1"
+    },
+    {
+      "file": "assets/cats/cat-02-walk2.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-1.png",
+      "sourceRect": {
+        "x": 232,
+        "y": 244,
+        "w": 238,
+        "h": 232
+      },
+      "species_id": 1,
+      "pose": "walk2"
+    },
+    {
+      "file": "assets/cats/cat-02-eat.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-1.png",
+      "sourceRect": {
+        "x": 470,
+        "y": 244,
+        "w": 217,
+        "h": 232
+      },
+      "species_id": 1,
+      "pose": "eat"
+    },
+    {
+      "file": "assets/cats/cat-02-sleep.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-1.png",
+      "sourceRect": {
+        "x": 687,
+        "y": 244,
+        "w": 236,
+        "h": 232
+      },
+      "species_id": 1,
+      "pose": "sleep"
+    },
+    {
+      "file": "assets/cats/cat-02-purr.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-1.png",
+      "sourceRect": {
+        "x": 923,
+        "y": 244,
+        "w": 215,
+        "h": 232
+      },
+      "species_id": 1,
+      "pose": "purr"
+    },
+    {
+      "file": "assets/cats/cat-02-sun.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-1.png",
+      "sourceRect": {
+        "x": 1138,
+        "y": 244,
+        "w": 236,
+        "h": 232
+      },
+      "species_id": 1,
+      "pose": "sun"
+    },
+    {
+      "file": "assets/cats/cat-03-walk1.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-1.png",
+      "sourceRect": {
+        "x": 0,
+        "y": 476,
+        "w": 229,
+        "h": 222
+      },
+      "species_id": 2,
+      "pose": "walk1"
+    },
+    {
+      "file": "assets/cats/cat-03-walk2.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-1.png",
+      "sourceRect": {
+        "x": 229,
+        "y": 476,
+        "w": 230,
+        "h": 222
+      },
+      "species_id": 2,
+      "pose": "walk2"
+    },
+    {
+      "file": "assets/cats/cat-03-eat.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-1.png",
+      "sourceRect": {
+        "x": 459,
+        "y": 476,
+        "w": 228,
+        "h": 222
+      },
+      "species_id": 2,
+      "pose": "eat"
+    },
+    {
+      "file": "assets/cats/cat-03-sleep.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-1.png",
+      "sourceRect": {
+        "x": 687,
+        "y": 476,
+        "w": 236,
+        "h": 222
+      },
+      "species_id": 2,
+      "pose": "sleep"
+    },
+    {
+      "file": "assets/cats/cat-03-purr.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-1.png",
+      "sourceRect": {
+        "x": 923,
+        "y": 476,
+        "w": 221,
+        "h": 222
+      },
+      "species_id": 2,
+      "pose": "purr"
+    },
+    {
+      "file": "assets/cats/cat-03-sun.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-1.png",
+      "sourceRect": {
+        "x": 1144,
+        "y": 476,
+        "w": 230,
+        "h": 222
+      },
+      "species_id": 2,
+      "pose": "sun"
+    },
+    {
+      "file": "assets/cats/cat-04-walk1.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-1.png",
+      "sourceRect": {
+        "x": 0,
+        "y": 698,
+        "w": 240,
+        "h": 226
+      },
+      "species_id": 3,
+      "pose": "walk1"
+    },
+    {
+      "file": "assets/cats/cat-04-walk2.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-1.png",
+      "sourceRect": {
+        "x": 240,
+        "y": 698,
+        "w": 233,
+        "h": 226
+      },
+      "species_id": 3,
+      "pose": "walk2"
+    },
+    {
+      "file": "assets/cats/cat-04-eat.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-1.png",
+      "sourceRect": {
+        "x": 473,
+        "y": 698,
+        "w": 212,
+        "h": 225
+      },
+      "species_id": 3,
+      "pose": "eat"
+    },
+    {
+      "file": "assets/cats/cat-04-sleep.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-1.png",
+      "sourceRect": {
+        "x": 685,
+        "y": 698,
+        "w": 239,
+        "h": 227
+      },
+      "species_id": 3,
+      "pose": "sleep"
+    },
+    {
+      "file": "assets/cats/cat-04-purr.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-1.png",
+      "sourceRect": {
+        "x": 927,
+        "y": 698,
+        "w": 215,
+        "h": 221
+      },
+      "species_id": 3,
+      "pose": "purr"
+    },
+    {
+      "file": "assets/cats/cat-04-sun.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-1.png",
+      "sourceRect": {
+        "x": 1142,
+        "y": 698,
+        "w": 232,
+        "h": 226
+      },
+      "species_id": 3,
+      "pose": "sun"
+    },
+    {
+      "file": "assets/cats/cat-05-walk1.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-1.png",
+      "sourceRect": {
+        "x": 0,
+        "y": 924,
+        "w": 229,
+        "h": 221
+      },
+      "species_id": 4,
+      "pose": "walk1"
+    },
+    {
+      "file": "assets/cats/cat-05-walk2.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-1.png",
+      "sourceRect": {
+        "x": 229,
+        "y": 924,
+        "w": 233,
+        "h": 221
+      },
+      "species_id": 4,
+      "pose": "walk2"
+    },
+    {
+      "file": "assets/cats/cat-05-eat.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-1.png",
+      "sourceRect": {
+        "x": 462,
+        "y": 923,
+        "w": 225,
+        "h": 222
+      },
+      "species_id": 4,
+      "pose": "eat"
+    },
+    {
+      "file": "assets/cats/cat-05-sleep.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-1.png",
+      "sourceRect": {
+        "x": 687,
+        "y": 925,
+        "w": 232,
+        "h": 220
+      },
+      "species_id": 4,
+      "pose": "sleep"
+    },
+    {
+      "file": "assets/cats/cat-05-purr.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-1.png",
+      "sourceRect": {
+        "x": 919,
+        "y": 919,
+        "w": 220,
+        "h": 226
+      },
+      "species_id": 4,
+      "pose": "purr"
+    },
+    {
+      "file": "assets/cats/cat-05-sun.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-1.png",
+      "sourceRect": {
+        "x": 1139,
+        "y": 924,
+        "w": 235,
+        "h": 221
+      },
+      "species_id": 4,
+      "pose": "sun"
+    },
+    {
+      "file": "assets/cats/cat-06-walk1.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-2.png",
+      "sourceRect": {
+        "x": 0,
+        "y": 0,
+        "w": 229,
+        "h": 240
+      },
+      "species_id": 5,
+      "pose": "walk1"
+    },
+    {
+      "file": "assets/cats/cat-06-walk2.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-2.png",
+      "sourceRect": {
+        "x": 229,
+        "y": 0,
+        "w": 230,
+        "h": 246
+      },
+      "species_id": 5,
+      "pose": "walk2"
+    },
+    {
+      "file": "assets/cats/cat-06-eat.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-2.png",
+      "sourceRect": {
+        "x": 459,
+        "y": 0,
+        "w": 228,
+        "h": 247
+      },
+      "species_id": 5,
+      "pose": "eat"
+    },
+    {
+      "file": "assets/cats/cat-06-sleep.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-2.png",
+      "sourceRect": {
+        "x": 687,
+        "y": 0,
+        "w": 237,
+        "h": 247
+      },
+      "species_id": 5,
+      "pose": "sleep"
+    },
+    {
+      "file": "assets/cats/cat-06-purr.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-2.png",
+      "sourceRect": {
+        "x": 924,
+        "y": 0,
+        "w": 208,
+        "h": 247
+      },
+      "species_id": 5,
+      "pose": "purr"
+    },
+    {
+      "file": "assets/cats/cat-06-sun.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-2.png",
+      "sourceRect": {
+        "x": 1132,
+        "y": 0,
+        "w": 242,
+        "h": 246
+      },
+      "species_id": 5,
+      "pose": "sun"
+    },
+    {
+      "file": "assets/cats/cat-07-walk1.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-2.png",
+      "sourceRect": {
+        "x": 0,
+        "y": 240,
+        "w": 230,
+        "h": 238
+      },
+      "species_id": 6,
+      "pose": "walk1"
+    },
+    {
+      "file": "assets/cats/cat-07-walk2.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-2.png",
+      "sourceRect": {
+        "x": 230,
+        "y": 246,
+        "w": 228,
+        "h": 233
+      },
+      "species_id": 6,
+      "pose": "walk2"
+    },
+    {
+      "file": "assets/cats/cat-07-eat.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-2.png",
+      "sourceRect": {
+        "x": 458,
+        "y": 247,
+        "w": 229,
+        "h": 232
+      },
+      "species_id": 6,
+      "pose": "eat"
+    },
+    {
+      "file": "assets/cats/cat-07-sleep.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-2.png",
+      "sourceRect": {
+        "x": 687,
+        "y": 247,
+        "w": 237,
+        "h": 232
+      },
+      "species_id": 6,
+      "pose": "sleep"
+    },
+    {
+      "file": "assets/cats/cat-07-purr.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-2.png",
+      "sourceRect": {
+        "x": 924,
+        "y": 247,
+        "w": 216,
+        "h": 232
+      },
+      "species_id": 6,
+      "pose": "purr"
+    },
+    {
+      "file": "assets/cats/cat-07-sun.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-2.png",
+      "sourceRect": {
+        "x": 1140,
+        "y": 246,
+        "w": 234,
+        "h": 233
+      },
+      "species_id": 6,
+      "pose": "sun"
+    },
+    {
+      "file": "assets/cats/cat-08-walk1.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-2.png",
+      "sourceRect": {
+        "x": 0,
+        "y": 478,
+        "w": 229,
+        "h": 230
+      },
+      "species_id": 7,
+      "pose": "walk1"
+    },
+    {
+      "file": "assets/cats/cat-08-walk2.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-2.png",
+      "sourceRect": {
+        "x": 229,
+        "y": 479,
+        "w": 229,
+        "h": 231
+      },
+      "species_id": 7,
+      "pose": "walk2"
+    },
+    {
+      "file": "assets/cats/cat-08-eat.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-2.png",
+      "sourceRect": {
+        "x": 458,
+        "y": 479,
+        "w": 229,
+        "h": 234
+      },
+      "species_id": 7,
+      "pose": "eat"
+    },
+    {
+      "file": "assets/cats/cat-08-sleep.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-2.png",
+      "sourceRect": {
+        "x": 687,
+        "y": 479,
+        "w": 236,
+        "h": 234
+      },
+      "species_id": 7,
+      "pose": "sleep"
+    },
+    {
+      "file": "assets/cats/cat-08-purr.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-2.png",
+      "sourceRect": {
+        "x": 923,
+        "y": 479,
+        "w": 215,
+        "h": 229
+      },
+      "species_id": 7,
+      "pose": "purr"
+    },
+    {
+      "file": "assets/cats/cat-08-sun.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-2.png",
+      "sourceRect": {
+        "x": 1138,
+        "y": 479,
+        "w": 236,
+        "h": 234
+      },
+      "species_id": 7,
+      "pose": "sun"
+    },
+    {
+      "file": "assets/cats/cat-09-walk1.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-2.png",
+      "sourceRect": {
+        "x": 0,
+        "y": 708,
+        "w": 229,
+        "h": 223
+      },
+      "species_id": 8,
+      "pose": "walk1"
+    },
+    {
+      "file": "assets/cats/cat-09-walk2.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-2.png",
+      "sourceRect": {
+        "x": 229,
+        "y": 710,
+        "w": 229,
+        "h": 221
+      },
+      "species_id": 8,
+      "pose": "walk2"
+    },
+    {
+      "file": "assets/cats/cat-09-eat.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-2.png",
+      "sourceRect": {
+        "x": 458,
+        "y": 713,
+        "w": 229,
+        "h": 218
+      },
+      "species_id": 8,
+      "pose": "eat"
+    },
+    {
+      "file": "assets/cats/cat-09-sleep.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-2.png",
+      "sourceRect": {
+        "x": 687,
+        "y": 713,
+        "w": 237,
+        "h": 218
+      },
+      "species_id": 8,
+      "pose": "sleep"
+    },
+    {
+      "file": "assets/cats/cat-09-purr.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-2.png",
+      "sourceRect": {
+        "x": 924,
+        "y": 708,
+        "w": 209,
+        "h": 223
+      },
+      "species_id": 8,
+      "pose": "purr"
+    },
+    {
+      "file": "assets/cats/cat-09-sun.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-2.png",
+      "sourceRect": {
+        "x": 1133,
+        "y": 713,
+        "w": 241,
+        "h": 218
+      },
+      "species_id": 8,
+      "pose": "sun"
+    },
+    {
+      "file": "assets/cats/cat-10-walk1.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-2.png",
+      "sourceRect": {
+        "x": 0,
+        "y": 931,
+        "w": 230,
+        "h": 214
+      },
+      "species_id": 9,
+      "pose": "walk1"
+    },
+    {
+      "file": "assets/cats/cat-10-walk2.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-2.png",
+      "sourceRect": {
+        "x": 230,
+        "y": 931,
+        "w": 228,
+        "h": 214
+      },
+      "species_id": 9,
+      "pose": "walk2"
+    },
+    {
+      "file": "assets/cats/cat-10-eat.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-2.png",
+      "sourceRect": {
+        "x": 458,
+        "y": 931,
+        "w": 229,
+        "h": 214
+      },
+      "species_id": 9,
+      "pose": "eat"
+    },
+    {
+      "file": "assets/cats/cat-10-sleep.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-2.png",
+      "sourceRect": {
+        "x": 687,
+        "y": 931,
+        "w": 252,
+        "h": 214
+      },
+      "species_id": 9,
+      "pose": "sleep"
+    },
+    {
+      "file": "assets/cats/cat-10-purr.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-2.png",
+      "sourceRect": {
+        "x": 939,
+        "y": 931,
+        "w": 191,
+        "h": 214
+      },
+      "species_id": 9,
+      "pose": "purr"
+    },
+    {
+      "file": "assets/cats/cat-10-sun.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-2.png",
+      "sourceRect": {
+        "x": 1130,
+        "y": 931,
+        "w": 244,
+        "h": 214
+      },
+      "species_id": 9,
+      "pose": "sun"
+    },
+    {
+      "file": "assets/cats/cat-11-walk1.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-3.png",
+      "sourceRect": {
+        "x": 0,
+        "y": 0,
+        "w": 232,
+        "h": 253
+      },
+      "species_id": 10,
+      "pose": "walk1"
+    },
+    {
+      "file": "assets/cats/cat-11-walk2.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-3.png",
+      "sourceRect": {
+        "x": 232,
+        "y": 0,
+        "w": 243,
+        "h": 253
+      },
+      "species_id": 10,
+      "pose": "walk2"
+    },
+    {
+      "file": "assets/cats/cat-11-eat.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-3.png",
+      "sourceRect": {
+        "x": 475,
+        "y": 0,
+        "w": 212,
+        "h": 253
+      },
+      "species_id": 10,
+      "pose": "eat"
+    },
+    {
+      "file": "assets/cats/cat-11-sleep.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-3.png",
+      "sourceRect": {
+        "x": 687,
+        "y": 0,
+        "w": 229,
+        "h": 253
+      },
+      "species_id": 10,
+      "pose": "sleep"
+    },
+    {
+      "file": "assets/cats/cat-11-purr.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-3.png",
+      "sourceRect": {
+        "x": 916,
+        "y": 0,
+        "w": 207,
+        "h": 253
+      },
+      "species_id": 10,
+      "pose": "purr"
+    },
+    {
+      "file": "assets/cats/cat-11-sun.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-3.png",
+      "sourceRect": {
+        "x": 1123,
+        "y": 0,
+        "w": 251,
+        "h": 252
+      },
+      "species_id": 10,
+      "pose": "sun"
+    },
+    {
+      "file": "assets/cats/cat-12-walk1.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-3.png",
+      "sourceRect": {
+        "x": 0,
+        "y": 253,
+        "w": 232,
+        "h": 217
+      },
+      "species_id": 11,
+      "pose": "walk1"
+    },
+    {
+      "file": "assets/cats/cat-12-walk2.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-3.png",
+      "sourceRect": {
+        "x": 232,
+        "y": 253,
+        "w": 239,
+        "h": 217
+      },
+      "species_id": 11,
+      "pose": "walk2"
+    },
+    {
+      "file": "assets/cats/cat-12-eat.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-3.png",
+      "sourceRect": {
+        "x": 471,
+        "y": 253,
+        "w": 216,
+        "h": 225
+      },
+      "species_id": 11,
+      "pose": "eat"
+    },
+    {
+      "file": "assets/cats/cat-12-sleep.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-3.png",
+      "sourceRect": {
+        "x": 687,
+        "y": 253,
+        "w": 229,
+        "h": 225
+      },
+      "species_id": 11,
+      "pose": "sleep"
+    },
+    {
+      "file": "assets/cats/cat-12-purr.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-3.png",
+      "sourceRect": {
+        "x": 916,
+        "y": 253,
+        "w": 215,
+        "h": 217
+      },
+      "species_id": 11,
+      "pose": "purr"
+    },
+    {
+      "file": "assets/cats/cat-12-sun.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-3.png",
+      "sourceRect": {
+        "x": 1131,
+        "y": 252,
+        "w": 243,
+        "h": 226
+      },
+      "species_id": 11,
+      "pose": "sun"
+    },
+    {
+      "file": "assets/cats/cat-13-walk1.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-3.png",
+      "sourceRect": {
+        "x": 0,
+        "y": 470,
+        "w": 232,
+        "h": 221
+      },
+      "species_id": 12,
+      "pose": "walk1"
+    },
+    {
+      "file": "assets/cats/cat-13-walk2.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-3.png",
+      "sourceRect": {
+        "x": 232,
+        "y": 470,
+        "w": 241,
+        "h": 223
+      },
+      "species_id": 12,
+      "pose": "walk2"
+    },
+    {
+      "file": "assets/cats/cat-13-eat.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-3.png",
+      "sourceRect": {
+        "x": 473,
+        "y": 478,
+        "w": 208,
+        "h": 224
+      },
+      "species_id": 12,
+      "pose": "eat"
+    },
+    {
+      "file": "assets/cats/cat-13-sleep.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-3.png",
+      "sourceRect": {
+        "x": 681,
+        "y": 478,
+        "w": 235,
+        "h": 224
+      },
+      "species_id": 12,
+      "pose": "sleep"
+    },
+    {
+      "file": "assets/cats/cat-13-purr.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-3.png",
+      "sourceRect": {
+        "x": 916,
+        "y": 470,
+        "w": 216,
+        "h": 232
+      },
+      "species_id": 12,
+      "pose": "purr"
+    },
+    {
+      "file": "assets/cats/cat-13-sun.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-3.png",
+      "sourceRect": {
+        "x": 1132,
+        "y": 478,
+        "w": 242,
+        "h": 224
+      },
+      "species_id": 12,
+      "pose": "sun"
+    },
+    {
+      "file": "assets/cats/cat-14-walk1.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-3.png",
+      "sourceRect": {
+        "x": 0,
+        "y": 691,
+        "w": 249,
+        "h": 226
+      },
+      "species_id": 13,
+      "pose": "walk1"
+    },
+    {
+      "file": "assets/cats/cat-14-walk2.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-3.png",
+      "sourceRect": {
+        "x": 249,
+        "y": 693,
+        "w": 234,
+        "h": 224
+      },
+      "species_id": 13,
+      "pose": "walk2"
+    },
+    {
+      "file": "assets/cats/cat-14-eat.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-3.png",
+      "sourceRect": {
+        "x": 483,
+        "y": 702,
+        "w": 204,
+        "h": 219
+      },
+      "species_id": 13,
+      "pose": "eat"
+    },
+    {
+      "file": "assets/cats/cat-14-sleep.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-3.png",
+      "sourceRect": {
+        "x": 687,
+        "y": 702,
+        "w": 229,
+        "h": 219
+      },
+      "species_id": 13,
+      "pose": "sleep"
+    },
+    {
+      "file": "assets/cats/cat-14-purr.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-3.png",
+      "sourceRect": {
+        "x": 916,
+        "y": 702,
+        "w": 207,
+        "h": 218
+      },
+      "species_id": 13,
+      "pose": "purr"
+    },
+    {
+      "file": "assets/cats/cat-14-sun.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-3.png",
+      "sourceRect": {
+        "x": 1123,
+        "y": 702,
+        "w": 251,
+        "h": 219
+      },
+      "species_id": 13,
+      "pose": "sun"
+    },
+    {
+      "file": "assets/cats/cat-15-walk1.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-3.png",
+      "sourceRect": {
+        "x": 0,
+        "y": 917,
+        "w": 237,
+        "h": 228
+      },
+      "species_id": 14,
+      "pose": "walk1"
+    },
+    {
+      "file": "assets/cats/cat-15-walk2.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-3.png",
+      "sourceRect": {
+        "x": 237,
+        "y": 917,
+        "w": 248,
+        "h": 228
+      },
+      "species_id": 14,
+      "pose": "walk2"
+    },
+    {
+      "file": "assets/cats/cat-15-eat.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-3.png",
+      "sourceRect": {
+        "x": 485,
+        "y": 921,
+        "w": 196,
+        "h": 224
+      },
+      "species_id": 14,
+      "pose": "eat"
+    },
+    {
+      "file": "assets/cats/cat-15-sleep.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-3.png",
+      "sourceRect": {
+        "x": 681,
+        "y": 921,
+        "w": 234,
+        "h": 224
+      },
+      "species_id": 14,
+      "pose": "sleep"
+    },
+    {
+      "file": "assets/cats/cat-15-purr.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-3.png",
+      "sourceRect": {
+        "x": 915,
+        "y": 920,
+        "w": 200,
+        "h": 225
+      },
+      "species_id": 14,
+      "pose": "purr"
+    },
+    {
+      "file": "assets/cats/cat-15-sun.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-3.png",
+      "sourceRect": {
+        "x": 1115,
+        "y": 921,
+        "w": 259,
+        "h": 224
+      },
+      "species_id": 14,
+      "pose": "sun"
+    },
+    {
+      "file": "assets/cats/cat-16-walk1.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-4.png",
+      "sourceRect": {
+        "x": 0,
+        "y": 0,
+        "w": 245,
+        "h": 254
+      },
+      "species_id": 15,
+      "pose": "walk1"
+    },
+    {
+      "file": "assets/cats/cat-16-walk2.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-4.png",
+      "sourceRect": {
+        "x": 245,
+        "y": 0,
+        "w": 243,
+        "h": 254
+      },
+      "species_id": 15,
+      "pose": "walk2"
+    },
+    {
+      "file": "assets/cats/cat-16-eat.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-4.png",
+      "sourceRect": {
+        "x": 488,
+        "y": 0,
+        "w": 201,
+        "h": 254
+      },
+      "species_id": 15,
+      "pose": "eat"
+    },
+    {
+      "file": "assets/cats/cat-16-sleep.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-4.png",
+      "sourceRect": {
+        "x": 689,
+        "y": 0,
+        "w": 226,
+        "h": 254
+      },
+      "species_id": 15,
+      "pose": "sleep"
+    },
+    {
+      "file": "assets/cats/cat-16-purr.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-4.png",
+      "sourceRect": {
+        "x": 915,
+        "y": 0,
+        "w": 202,
+        "h": 254
+      },
+      "species_id": 15,
+      "pose": "purr"
+    },
+    {
+      "file": "assets/cats/cat-16-sun.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-4.png",
+      "sourceRect": {
+        "x": 1117,
+        "y": 0,
+        "w": 257,
+        "h": 254
+      },
+      "species_id": 15,
+      "pose": "sun"
+    },
+    {
+      "file": "assets/cats/cat-17-walk1.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-4.png",
+      "sourceRect": {
+        "x": 0,
+        "y": 254,
+        "w": 255,
+        "h": 245
+      },
+      "species_id": 16,
+      "pose": "walk1"
+    },
+    {
+      "file": "assets/cats/cat-17-walk2.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-4.png",
+      "sourceRect": {
+        "x": 255,
+        "y": 254,
+        "w": 236,
+        "h": 247
+      },
+      "species_id": 16,
+      "pose": "walk2"
+    },
+    {
+      "file": "assets/cats/cat-17-eat.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-4.png",
+      "sourceRect": {
+        "x": 491,
+        "y": 254,
+        "w": 204,
+        "h": 247
+      },
+      "species_id": 16,
+      "pose": "eat"
+    },
+    {
+      "file": "assets/cats/cat-17-sleep.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-4.png",
+      "sourceRect": {
+        "x": 695,
+        "y": 254,
+        "w": 229,
+        "h": 247
+      },
+      "species_id": 16,
+      "pose": "sleep"
+    },
+    {
+      "file": "assets/cats/cat-17-purr.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-4.png",
+      "sourceRect": {
+        "x": 924,
+        "y": 254,
+        "w": 189,
+        "h": 244
+      },
+      "species_id": 16,
+      "pose": "purr"
+    },
+    {
+      "file": "assets/cats/cat-17-sun.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-4.png",
+      "sourceRect": {
+        "x": 1113,
+        "y": 254,
+        "w": 261,
+        "h": 247
+      },
+      "species_id": 16,
+      "pose": "sun"
+    },
+    {
+      "file": "assets/cats/cat-18-walk1.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-4.png",
+      "sourceRect": {
+        "x": 0,
+        "y": 499,
+        "w": 249,
+        "h": 220
+      },
+      "species_id": 17,
+      "pose": "walk1"
+    },
+    {
+      "file": "assets/cats/cat-18-walk2.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-4.png",
+      "sourceRect": {
+        "x": 249,
+        "y": 501,
+        "w": 242,
+        "h": 226
+      },
+      "species_id": 17,
+      "pose": "walk2"
+    },
+    {
+      "file": "assets/cats/cat-18-eat.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-4.png",
+      "sourceRect": {
+        "x": 491,
+        "y": 501,
+        "w": 196,
+        "h": 232
+      },
+      "species_id": 17,
+      "pose": "eat"
+    },
+    {
+      "file": "assets/cats/cat-18-sleep.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-4.png",
+      "sourceRect": {
+        "x": 687,
+        "y": 501,
+        "w": 237,
+        "h": 231
+      },
+      "species_id": 17,
+      "pose": "sleep"
+    },
+    {
+      "file": "assets/cats/cat-18-purr.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-4.png",
+      "sourceRect": {
+        "x": 924,
+        "y": 498,
+        "w": 191,
+        "h": 225
+      },
+      "species_id": 17,
+      "pose": "purr"
+    },
+    {
+      "file": "assets/cats/cat-18-sun.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-4.png",
+      "sourceRect": {
+        "x": 1115,
+        "y": 501,
+        "w": 259,
+        "h": 232
+      },
+      "species_id": 17,
+      "pose": "sun"
+    },
+    {
+      "file": "assets/cats/cat-19-walk1.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-4.png",
+      "sourceRect": {
+        "x": 0,
+        "y": 719,
+        "w": 261,
+        "h": 211
+      },
+      "species_id": 18,
+      "pose": "walk1"
+    },
+    {
+      "file": "assets/cats/cat-19-walk2.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-4.png",
+      "sourceRect": {
+        "x": 261,
+        "y": 727,
+        "w": 228,
+        "h": 205
+      },
+      "species_id": 18,
+      "pose": "walk2"
+    },
+    {
+      "file": "assets/cats/cat-19-eat.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-4.png",
+      "sourceRect": {
+        "x": 489,
+        "y": 733,
+        "w": 206,
+        "h": 201
+      },
+      "species_id": 18,
+      "pose": "eat"
+    },
+    {
+      "file": "assets/cats/cat-19-sleep.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-4.png",
+      "sourceRect": {
+        "x": 695,
+        "y": 732,
+        "w": 227,
+        "h": 202
+      },
+      "species_id": 18,
+      "pose": "sleep"
+    },
+    {
+      "file": "assets/cats/cat-19-purr.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-4.png",
+      "sourceRect": {
+        "x": 922,
+        "y": 723,
+        "w": 193,
+        "h": 208
+      },
+      "species_id": 18,
+      "pose": "purr"
+    },
+    {
+      "file": "assets/cats/cat-19-sun.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-4.png",
+      "sourceRect": {
+        "x": 1115,
+        "y": 733,
+        "w": 259,
+        "h": 201
+      },
+      "species_id": 18,
+      "pose": "sun"
+    },
+    {
+      "file": "assets/cats/cat-20-walk1.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-4.png",
+      "sourceRect": {
+        "x": 0,
+        "y": 930,
+        "w": 248,
+        "h": 215
+      },
+      "species_id": 19,
+      "pose": "walk1"
+    },
+    {
+      "file": "assets/cats/cat-20-walk2.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-4.png",
+      "sourceRect": {
+        "x": 248,
+        "y": 932,
+        "w": 247,
+        "h": 213
+      },
+      "species_id": 19,
+      "pose": "walk2"
+    },
+    {
+      "file": "assets/cats/cat-20-eat.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-4.png",
+      "sourceRect": {
+        "x": 495,
+        "y": 934,
+        "w": 203,
+        "h": 211
+      },
+      "species_id": 19,
+      "pose": "eat"
+    },
+    {
+      "file": "assets/cats/cat-20-sleep.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-4.png",
+      "sourceRect": {
+        "x": 698,
+        "y": 934,
+        "w": 225,
+        "h": 211
+      },
+      "species_id": 19,
+      "pose": "sleep"
+    },
+    {
+      "file": "assets/cats/cat-20-purr.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-4.png",
+      "sourceRect": {
+        "x": 923,
+        "y": 931,
+        "w": 194,
+        "h": 214
+      },
+      "species_id": 19,
+      "pose": "purr"
+    },
+    {
+      "file": "assets/cats/cat-20-sun.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-4.png",
+      "sourceRect": {
+        "x": 1117,
+        "y": 934,
+        "w": 257,
+        "h": 211
+      },
+      "species_id": 19,
+      "pose": "sun"
+    },
+    {
+      "file": "assets/cats/cat-21-walk1.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-5.png",
+      "sourceRect": {
+        "x": 0,
+        "y": 0,
+        "w": 248,
+        "h": 253
+      },
+      "species_id": 20,
+      "pose": "walk1"
+    },
+    {
+      "file": "assets/cats/cat-21-walk2.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-5.png",
+      "sourceRect": {
+        "x": 248,
+        "y": 0,
+        "w": 209,
+        "h": 260
+      },
+      "species_id": 20,
+      "pose": "walk2"
+    },
+    {
+      "file": "assets/cats/cat-21-eat.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-5.png",
+      "sourceRect": {
+        "x": 457,
+        "y": 0,
+        "w": 230,
+        "h": 253
+      },
+      "species_id": 20,
+      "pose": "eat"
+    },
+    {
+      "file": "assets/cats/cat-21-sleep.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-5.png",
+      "sourceRect": {
+        "x": 687,
+        "y": 0,
+        "w": 230,
+        "h": 253
+      },
+      "species_id": 20,
+      "pose": "sleep"
+    },
+    {
+      "file": "assets/cats/cat-21-purr.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-5.png",
+      "sourceRect": {
+        "x": 917,
+        "y": 0,
+        "w": 206,
+        "h": 253
+      },
+      "species_id": 20,
+      "pose": "purr"
+    },
+    {
+      "file": "assets/cats/cat-21-sun.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-5.png",
+      "sourceRect": {
+        "x": 1123,
+        "y": 0,
+        "w": 251,
+        "h": 254
+      },
+      "species_id": 20,
+      "pose": "sun"
+    },
+    {
+      "file": "assets/cats/cat-22-walk1.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-5.png",
+      "sourceRect": {
+        "x": 0,
+        "y": 253,
+        "w": 248,
+        "h": 237
+      },
+      "species_id": 21,
+      "pose": "walk1"
+    },
+    {
+      "file": "assets/cats/cat-22-walk2.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-5.png",
+      "sourceRect": {
+        "x": 248,
+        "y": 260,
+        "w": 211,
+        "h": 232
+      },
+      "species_id": 21,
+      "pose": "walk2"
+    },
+    {
+      "file": "assets/cats/cat-22-eat.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-5.png",
+      "sourceRect": {
+        "x": 459,
+        "y": 253,
+        "w": 226,
+        "h": 240
+      },
+      "species_id": 21,
+      "pose": "eat"
+    },
+    {
+      "file": "assets/cats/cat-22-sleep.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-5.png",
+      "sourceRect": {
+        "x": 685,
+        "y": 253,
+        "w": 238,
+        "h": 240
+      },
+      "species_id": 21,
+      "pose": "sleep"
+    },
+    {
+      "file": "assets/cats/cat-22-purr.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-5.png",
+      "sourceRect": {
+        "x": 923,
+        "y": 253,
+        "w": 198,
+        "h": 237
+      },
+      "species_id": 21,
+      "pose": "purr"
+    },
+    {
+      "file": "assets/cats/cat-22-sun.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-5.png",
+      "sourceRect": {
+        "x": 1121,
+        "y": 254,
+        "w": 253,
+        "h": 239
+      },
+      "species_id": 21,
+      "pose": "sun"
+    },
+    {
+      "file": "assets/cats/cat-23-walk1.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-5.png",
+      "sourceRect": {
+        "x": 0,
+        "y": 490,
+        "w": 259,
+        "h": 249
+      },
+      "species_id": 22,
+      "pose": "walk1"
+    },
+    {
+      "file": "assets/cats/cat-23-walk2.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-5.png",
+      "sourceRect": {
+        "x": 259,
+        "y": 492,
+        "w": 212,
+        "h": 246
+      },
+      "species_id": 22,
+      "pose": "walk2"
+    },
+    {
+      "file": "assets/cats/cat-23-eat.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-5.png",
+      "sourceRect": {
+        "x": 471,
+        "y": 493,
+        "w": 214,
+        "h": 251
+      },
+      "species_id": 22,
+      "pose": "eat"
+    },
+    {
+      "file": "assets/cats/cat-23-sleep.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-5.png",
+      "sourceRect": {
+        "x": 685,
+        "y": 493,
+        "w": 255,
+        "h": 252
+      },
+      "species_id": 22,
+      "pose": "sleep"
+    },
+    {
+      "file": "assets/cats/cat-23-purr.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-5.png",
+      "sourceRect": {
+        "x": 940,
+        "y": 490,
+        "w": 165,
+        "h": 245
+      },
+      "species_id": 22,
+      "pose": "purr"
+    },
+    {
+      "file": "assets/cats/cat-23-sun.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-5.png",
+      "sourceRect": {
+        "x": 1105,
+        "y": 493,
+        "w": 269,
+        "h": 252
+      },
+      "species_id": 22,
+      "pose": "sun"
+    },
+    {
+      "file": "assets/cats/cat-24-walk1.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-5.png",
+      "sourceRect": {
+        "x": 0,
+        "y": 739,
+        "w": 247,
+        "h": 204
+      },
+      "species_id": 23,
+      "pose": "walk1"
+    },
+    {
+      "file": "assets/cats/cat-24-walk2.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-5.png",
+      "sourceRect": {
+        "x": 247,
+        "y": 738,
+        "w": 225,
+        "h": 205
+      },
+      "species_id": 23,
+      "pose": "walk2"
+    },
+    {
+      "file": "assets/cats/cat-24-eat.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-5.png",
+      "sourceRect": {
+        "x": 472,
+        "y": 744,
+        "w": 223,
+        "h": 199
+      },
+      "species_id": 23,
+      "pose": "eat"
+    },
+    {
+      "file": "assets/cats/cat-24-sleep.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-5.png",
+      "sourceRect": {
+        "x": 695,
+        "y": 745,
+        "w": 227,
+        "h": 198
+      },
+      "species_id": 23,
+      "pose": "sleep"
+    },
+    {
+      "file": "assets/cats/cat-24-purr.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-5.png",
+      "sourceRect": {
+        "x": 922,
+        "y": 735,
+        "w": 193,
+        "h": 208
+      },
+      "species_id": 23,
+      "pose": "purr"
+    },
+    {
+      "file": "assets/cats/cat-24-sun.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-5.png",
+      "sourceRect": {
+        "x": 1115,
+        "y": 745,
+        "w": 259,
+        "h": 198
+      },
+      "species_id": 23,
+      "pose": "sun"
+    },
+    {
+      "file": "assets/cats/cat-25-walk1.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-5.png",
+      "sourceRect": {
+        "x": 0,
+        "y": 943,
+        "w": 243,
+        "h": 202
+      },
+      "species_id": 24,
+      "pose": "walk1"
+    },
+    {
+      "file": "assets/cats/cat-25-walk2.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-5.png",
+      "sourceRect": {
+        "x": 243,
+        "y": 943,
+        "w": 229,
+        "h": 202
+      },
+      "species_id": 24,
+      "pose": "walk2"
+    },
+    {
+      "file": "assets/cats/cat-25-eat.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-5.png",
+      "sourceRect": {
+        "x": 472,
+        "y": 943,
+        "w": 215,
+        "h": 202
+      },
+      "species_id": 24,
+      "pose": "eat"
+    },
+    {
+      "file": "assets/cats/cat-25-sleep.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-5.png",
+      "sourceRect": {
+        "x": 687,
+        "y": 943,
+        "w": 232,
+        "h": 202
+      },
+      "species_id": 24,
+      "pose": "sleep"
+    },
+    {
+      "file": "assets/cats/cat-25-purr.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-5.png",
+      "sourceRect": {
+        "x": 919,
+        "y": 943,
+        "w": 196,
+        "h": 202
+      },
+      "species_id": 24,
+      "pose": "purr"
+    },
+    {
+      "file": "assets/cats/cat-25-sun.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-5.png",
+      "sourceRect": {
+        "x": 1115,
+        "y": 943,
+        "w": 259,
+        "h": 202
+      },
+      "species_id": 24,
+      "pose": "sun"
+    },
+    {
+      "file": "assets/cats/cat-26-walk1.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-6.png",
+      "sourceRect": {
+        "x": 0,
+        "y": 0,
+        "w": 229,
+        "h": 258
+      },
+      "species_id": 25,
+      "pose": "walk1"
+    },
+    {
+      "file": "assets/cats/cat-26-walk2.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-6.png",
+      "sourceRect": {
+        "x": 229,
+        "y": 0,
+        "w": 238,
+        "h": 258
+      },
+      "species_id": 25,
+      "pose": "walk2"
+    },
+    {
+      "file": "assets/cats/cat-26-eat.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-6.png",
+      "sourceRect": {
+        "x": 467,
+        "y": 0,
+        "w": 220,
+        "h": 262
+      },
+      "species_id": 25,
+      "pose": "eat"
+    },
+    {
+      "file": "assets/cats/cat-26-sleep.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-6.png",
+      "sourceRect": {
+        "x": 687,
+        "y": 0,
+        "w": 229,
+        "h": 258
+      },
+      "species_id": 25,
+      "pose": "sleep"
+    },
+    {
+      "file": "assets/cats/cat-26-purr.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-6.png",
+      "sourceRect": {
+        "x": 916,
+        "y": 0,
+        "w": 229,
+        "h": 263
+      },
+      "species_id": 25,
+      "pose": "purr"
+    },
+    {
+      "file": "assets/cats/cat-26-sun.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-6.png",
+      "sourceRect": {
+        "x": 1145,
+        "y": 0,
+        "w": 229,
+        "h": 260
+      },
+      "species_id": 25,
+      "pose": "sun"
+    },
+    {
+      "file": "assets/cats/cat-27-walk1.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-6.png",
+      "sourceRect": {
+        "x": 0,
+        "y": 258,
+        "w": 229,
+        "h": 233
+      },
+      "species_id": 26,
+      "pose": "walk1"
+    },
+    {
+      "file": "assets/cats/cat-27-walk2.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-6.png",
+      "sourceRect": {
+        "x": 229,
+        "y": 258,
+        "w": 242,
+        "h": 232
+      },
+      "species_id": 26,
+      "pose": "walk2"
+    },
+    {
+      "file": "assets/cats/cat-27-eat.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-6.png",
+      "sourceRect": {
+        "x": 471,
+        "y": 262,
+        "w": 216,
+        "h": 229
+      },
+      "species_id": 26,
+      "pose": "eat"
+    },
+    {
+      "file": "assets/cats/cat-27-sleep.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-6.png",
+      "sourceRect": {
+        "x": 687,
+        "y": 258,
+        "w": 229,
+        "h": 233
+      },
+      "species_id": 26,
+      "pose": "sleep"
+    },
+    {
+      "file": "assets/cats/cat-27-purr.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-6.png",
+      "sourceRect": {
+        "x": 916,
+        "y": 263,
+        "w": 229,
+        "h": 226
+      },
+      "species_id": 26,
+      "pose": "purr"
+    },
+    {
+      "file": "assets/cats/cat-27-sun.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-6.png",
+      "sourceRect": {
+        "x": 1145,
+        "y": 260,
+        "w": 229,
+        "h": 231
+      },
+      "species_id": 26,
+      "pose": "sun"
+    },
+    {
+      "file": "assets/cats/cat-28-walk1.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-6.png",
+      "sourceRect": {
+        "x": 0,
+        "y": 491,
+        "w": 232,
+        "h": 227
+      },
+      "species_id": 27,
+      "pose": "walk1"
+    },
+    {
+      "file": "assets/cats/cat-28-walk2.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-6.png",
+      "sourceRect": {
+        "x": 232,
+        "y": 491,
+        "w": 228,
+        "h": 227
+      },
+      "species_id": 27,
+      "pose": "walk2"
+    },
+    {
+      "file": "assets/cats/cat-28-eat.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-6.png",
+      "sourceRect": {
+        "x": 460,
+        "y": 491,
+        "w": 227,
+        "h": 227
+      },
+      "species_id": 27,
+      "pose": "eat"
+    },
+    {
+      "file": "assets/cats/cat-28-sleep.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-6.png",
+      "sourceRect": {
+        "x": 687,
+        "y": 491,
+        "w": 237,
+        "h": 227
+      },
+      "species_id": 27,
+      "pose": "sleep"
+    },
+    {
+      "file": "assets/cats/cat-28-purr.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/selkirk.png",
+      "species_id": 27,
+      "pose": "purr"
+    },
+    {
+      "file": "assets/cats/cat-28-sun.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-6.png",
+      "sourceRect": {
+        "x": 1145,
+        "y": 491,
+        "w": 229,
+        "h": 227
+      },
+      "species_id": 27,
+      "pose": "sun"
+    },
+    {
+      "file": "assets/cats/cat-29-walk1.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-6.png",
+      "sourceRect": {
+        "x": 0,
+        "y": 718,
+        "w": 234,
+        "h": 212
+      },
+      "species_id": 28,
+      "pose": "walk1"
+    },
+    {
+      "file": "assets/cats/cat-29-walk2.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-6.png",
+      "sourceRect": {
+        "x": 234,
+        "y": 718,
+        "w": 243,
+        "h": 212
+      },
+      "species_id": 28,
+      "pose": "walk2"
+    },
+    {
+      "file": "assets/cats/cat-29-eat.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-6.png",
+      "sourceRect": {
+        "x": 477,
+        "y": 718,
+        "w": 210,
+        "h": 211
+      },
+      "species_id": 28,
+      "pose": "eat"
+    },
+    {
+      "file": "assets/cats/cat-29-sleep.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-6.png",
+      "sourceRect": {
+        "x": 687,
+        "y": 718,
+        "w": 238,
+        "h": 212
+      },
+      "species_id": 28,
+      "pose": "sleep"
+    },
+    {
+      "file": "assets/cats/cat-29-purr.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-6.png",
+      "sourceRect": {
+        "x": 925,
+        "y": 711,
+        "w": 220,
+        "h": 217
+      },
+      "species_id": 28,
+      "pose": "purr"
+    },
+    {
+      "file": "assets/cats/cat-29-sun.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-6.png",
+      "sourceRect": {
+        "x": 1145,
+        "y": 718,
+        "w": 229,
+        "h": 212
+      },
+      "species_id": 28,
+      "pose": "sun"
+    },
+    {
+      "file": "assets/cats/cat-30-walk1.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-6.png",
+      "sourceRect": {
+        "x": 0,
+        "y": 930,
+        "w": 230,
+        "h": 215
+      },
+      "species_id": 29,
+      "pose": "walk1"
+    },
+    {
+      "file": "assets/cats/cat-30-walk2.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-6.png",
+      "sourceRect": {
+        "x": 230,
+        "y": 930,
+        "w": 239,
+        "h": 215
+      },
+      "species_id": 29,
+      "pose": "walk2"
+    },
+    {
+      "file": "assets/cats/cat-30-eat.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-6.png",
+      "sourceRect": {
+        "x": 469,
+        "y": 929,
+        "w": 218,
+        "h": 216
+      },
+      "species_id": 29,
+      "pose": "eat"
+    },
+    {
+      "file": "assets/cats/cat-30-sleep.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-6.png",
+      "sourceRect": {
+        "x": 687,
+        "y": 930,
+        "w": 232,
+        "h": 215
+      },
+      "species_id": 29,
+      "pose": "sleep"
+    },
+    {
+      "file": "assets/cats/cat-30-purr.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-6.png",
+      "sourceRect": {
+        "x": 919,
+        "y": 928,
+        "w": 226,
+        "h": 217
+      },
+      "species_id": 29,
+      "pose": "purr"
+    },
+    {
+      "file": "assets/cats/cat-30-sun.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/cats-6.png",
+      "sourceRect": {
+        "x": 1145,
+        "y": 930,
+        "w": 229,
+        "h": 215
+      },
+      "species_id": 29,
+      "pose": "sun"
+    }
+  ],
+  "items": [
+    {
+      "file": "assets/items/item-1-1.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/items.png",
+      "sourceRect": {
+        "x": 0,
+        "y": 0,
+        "w": 229,
+        "h": 246
+      },
+      "chain": 0,
+      "level": 1,
+      "name": "猫薄荷球"
+    },
+    {
+      "file": "assets/items/item-1-2.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/items.png",
+      "sourceRect": {
+        "x": 229,
+        "y": 0,
+        "w": 229,
+        "h": 246
+      },
+      "chain": 0,
+      "level": 2,
+      "name": "双叶薄荷球"
+    },
+    {
+      "file": "assets/items/item-1-3.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/items.png",
+      "sourceRect": {
+        "x": 458,
+        "y": 0,
+        "w": 229,
+        "h": 246
+      },
+      "chain": 0,
+      "level": 3,
+      "name": "薄荷绒团"
+    },
+    {
+      "file": "assets/items/item-1-4.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/items.png",
+      "sourceRect": {
+        "x": 687,
+        "y": 0,
+        "w": 218,
+        "h": 246
+      },
+      "chain": 0,
+      "level": 4,
+      "name": "薄荷花束"
+    },
+    {
+      "file": "assets/items/item-1-5.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/items.png",
+      "sourceRect": {
+        "x": 905,
+        "y": 0,
+        "w": 233,
+        "h": 235
+      },
+      "chain": 0,
+      "level": 5,
+      "name": "薄荷小花园"
+    },
+    {
+      "file": "assets/items/item-1-6.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/items.png",
+      "sourceRect": {
+        "x": 1138,
+        "y": 0,
+        "w": 236,
+        "h": 246
+      },
+      "chain": 0,
+      "level": 6,
+      "name": "薄荷梦境园"
+    },
+    {
+      "file": "assets/items/item-2-1.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/items.png",
+      "sourceRect": {
+        "x": 0,
+        "y": 246,
+        "w": 223,
+        "h": 232
+      },
+      "chain": 1,
+      "level": 1,
+      "name": "猫爪大福"
+    },
+    {
+      "file": "assets/items/item-2-2.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/items.png",
+      "sourceRect": {
+        "x": 223,
+        "y": 246,
+        "w": 222,
+        "h": 232
+      },
+      "chain": 1,
+      "level": 2,
+      "name": "双拼大福"
+    },
+    {
+      "file": "assets/items/item-2-3.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/items.png",
+      "sourceRect": {
+        "x": 445,
+        "y": 246,
+        "w": 234,
+        "h": 232
+      },
+      "chain": 1,
+      "level": 3,
+      "name": "三色大福"
+    },
+    {
+      "file": "assets/items/item-2-4.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/items.png",
+      "sourceRect": {
+        "x": 679,
+        "y": 246,
+        "w": 237,
+        "h": 222
+      },
+      "chain": 1,
+      "level": 4,
+      "name": "大福礼盒"
+    },
+    {
+      "file": "assets/items/item-2-5.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/items.png",
+      "sourceRect": {
+        "x": 916,
+        "y": 235,
+        "w": 224,
+        "h": 230
+      },
+      "chain": 1,
+      "level": 5,
+      "name": "大福塔"
+    },
+    {
+      "file": "assets/items/item-2-6.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/items.png",
+      "sourceRect": {
+        "x": 1140,
+        "y": 246,
+        "w": 234,
+        "h": 218
+      },
+      "chain": 1,
+      "level": 6,
+      "name": "猫爪甜品屋"
+    },
+    {
+      "file": "assets/items/item-3-1.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/items.png",
+      "sourceRect": {
+        "x": 0,
+        "y": 478,
+        "w": 229,
+        "h": 251
+      },
+      "chain": 2,
+      "level": 1,
+      "name": "小铃铛"
+    },
+    {
+      "file": "assets/items/item-3-2.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/items.png",
+      "sourceRect": {
+        "x": 229,
+        "y": 478,
+        "w": 229,
+        "h": 251
+      },
+      "chain": 2,
+      "level": 2,
+      "name": "蝴蝶结铃铛"
+    },
+    {
+      "file": "assets/items/item-3-3.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/items.png",
+      "sourceRect": {
+        "x": 458,
+        "y": 478,
+        "w": 229,
+        "h": 251
+      },
+      "chain": 2,
+      "level": 3,
+      "name": "双铃项圈"
+    },
+    {
+      "file": "assets/items/item-3-4.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/items.png",
+      "sourceRect": {
+        "x": 687,
+        "y": 468,
+        "w": 229,
+        "h": 261
+      },
+      "chain": 2,
+      "level": 4,
+      "name": "铃铛风铃"
+    },
+    {
+      "file": "assets/items/item-3-5.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/items.png",
+      "sourceRect": {
+        "x": 916,
+        "y": 465,
+        "w": 229,
+        "h": 260
+      },
+      "chain": 2,
+      "level": 5,
+      "name": "月亮铃饰"
+    },
+    {
+      "file": "assets/items/item-3-6.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/items.png",
+      "sourceRect": {
+        "x": 1145,
+        "y": 464,
+        "w": 229,
+        "h": 252
+      },
+      "chain": 2,
+      "level": 6,
+      "name": "星光铃塔"
+    },
+    {
+      "file": "assets/items/item-4-1.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/items.png",
+      "sourceRect": {
+        "x": 0,
+        "y": 729,
+        "w": 229,
+        "h": 177
+      },
+      "chain": 3,
+      "level": 1,
+      "name": "小鱼干"
+    },
+    {
+      "file": "assets/items/item-4-2.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/items.png",
+      "sourceRect": {
+        "x": 229,
+        "y": 729,
+        "w": 220,
+        "h": 177
+      },
+      "chain": 3,
+      "level": 2,
+      "name": "双鱼干"
+    },
+    {
+      "file": "assets/items/item-4-3.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/items.png",
+      "sourceRect": {
+        "x": 449,
+        "y": 729,
+        "w": 234,
+        "h": 174
+      },
+      "chain": 3,
+      "level": 3,
+      "name": "鱼干小碟"
+    },
+    {
+      "file": "assets/items/item-4-4.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/items.png",
+      "sourceRect": {
+        "x": 683,
+        "y": 729,
+        "w": 231,
+        "h": 169
+      },
+      "chain": 3,
+      "level": 4,
+      "name": "烤鱼餐"
+    },
+    {
+      "file": "assets/items/item-4-5.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/items.png",
+      "sourceRect": {
+        "x": 914,
+        "y": 725,
+        "w": 213,
+        "h": 168
+      },
+      "chain": 3,
+      "level": 5,
+      "name": "豪华猫饭"
+    },
+    {
+      "file": "assets/items/item-4-6.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/items.png",
+      "sourceRect": {
+        "x": 1127,
+        "y": 716,
+        "w": 247,
+        "h": 183
+      },
+      "chain": 3,
+      "level": 6,
+      "name": "海味猫宴"
+    },
+    {
+      "file": "assets/items/item-5-1.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/items.png",
+      "sourceRect": {
+        "x": 0,
+        "y": 906,
+        "w": 224,
+        "h": 239
+      },
+      "chain": 4,
+      "level": 1,
+      "name": "小鸟玩具"
+    },
+    {
+      "file": "assets/items/item-5-2.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/items.png",
+      "sourceRect": {
+        "x": 224,
+        "y": 906,
+        "w": 234,
+        "h": 239
+      },
+      "chain": 4,
+      "level": 2,
+      "name": "羽毛小鸟"
+    },
+    {
+      "file": "assets/items/item-5-3.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/items.png",
+      "sourceRect": {
+        "x": 458,
+        "y": 903,
+        "w": 229,
+        "h": 242
+      },
+      "chain": 4,
+      "level": 3,
+      "name": "逗猫鸟棒"
+    },
+    {
+      "file": "assets/items/item-5-4.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/items.png",
+      "sourceRect": {
+        "x": 687,
+        "y": 898,
+        "w": 224,
+        "h": 247
+      },
+      "chain": 4,
+      "level": 4,
+      "name": "小鸟秋千"
+    },
+    {
+      "file": "assets/items/item-5-5.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/items.png",
+      "sourceRect": {
+        "x": 911,
+        "y": 893,
+        "w": 229,
+        "h": 252
+      },
+      "chain": 4,
+      "level": 5,
+      "name": "玩具树屋"
+    },
+    {
+      "file": "assets/items/item-5-6.png",
+      "width": 256,
+      "height": 256,
+      "atlas": "assets/atlases/items.png",
+      "sourceRect": {
+        "x": 1140,
+        "y": 899,
+        "w": 234,
+        "h": 246
+      },
+      "chain": 4,
+      "level": 6,
+      "name": "小鸟梦乐园"
+    }
+  ],
+  "scenes": [
+    {
+      "id": "entrance",
+      "file": "assets/scenes/entrance.png",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "id": "garden",
+      "file": "assets/scenes/garden.png",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "id": "greenhouse",
+      "file": "assets/scenes/greenhouse.png",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "id": "lake",
+      "file": "assets/scenes/lake.png",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "id": "rooftop",
+      "file": "assets/scenes/rooftop.png",
+      "width": 1536,
+      "height": 1024
+    }
+  ],
+  "audio": [
+    {
+      "id": "purr",
+      "file": "assets/audio/purr.wav",
+      "source": "original procedural synthesis"
+    },
+    {
+      "id": "merge",
+      "file": "assets/audio/merge.wav",
+      "source": "original procedural synthesis"
+    },
+    {
+      "id": "reward",
+      "file": "assets/audio/reward.wav",
+      "source": "original procedural synthesis"
+    }
+  ],
+  "spritesheets": [
+    {
+      "species_id": 0,
+      "file": "assets/spritesheets/cat-01.png",
+      "metadata": "assets/spritesheets/cat-01.json"
+    },
+    {
+      "species_id": 1,
+      "file": "assets/spritesheets/cat-02.png",
+      "metadata": "assets/spritesheets/cat-02.json"
+    },
+    {
+      "species_id": 2,
+      "file": "assets/spritesheets/cat-03.png",
+      "metadata": "assets/spritesheets/cat-03.json"
+    },
+    {
+      "species_id": 3,
+      "file": "assets/spritesheets/cat-04.png",
+      "metadata": "assets/spritesheets/cat-04.json"
+    },
+    {
+      "species_id": 4,
+      "file": "assets/spritesheets/cat-05.png",
+      "metadata": "assets/spritesheets/cat-05.json"
+    },
+    {
+      "species_id": 5,
+      "file": "assets/spritesheets/cat-06.png",
+      "metadata": "assets/spritesheets/cat-06.json"
+    },
+    {
+      "species_id": 6,
+      "file": "assets/spritesheets/cat-07.png",
+      "metadata": "assets/spritesheets/cat-07.json"
+    },
+    {
+      "species_id": 7,
+      "file": "assets/spritesheets/cat-08.png",
+      "metadata": "assets/spritesheets/cat-08.json"
+    },
+    {
+      "species_id": 8,
+      "file": "assets/spritesheets/cat-09.png",
+      "metadata": "assets/spritesheets/cat-09.json"
+    },
+    {
+      "species_id": 9,
+      "file": "assets/spritesheets/cat-10.png",
+      "metadata": "assets/spritesheets/cat-10.json"
+    },
+    {
+      "species_id": 10,
+      "file": "assets/spritesheets/cat-11.png",
+      "metadata": "assets/spritesheets/cat-11.json"
+    },
+    {
+      "species_id": 11,
+      "file": "assets/spritesheets/cat-12.png",
+      "metadata": "assets/spritesheets/cat-12.json"
+    },
+    {
+      "species_id": 12,
+      "file": "assets/spritesheets/cat-13.png",
+      "metadata": "assets/spritesheets/cat-13.json"
+    },
+    {
+      "species_id": 13,
+      "file": "assets/spritesheets/cat-14.png",
+      "metadata": "assets/spritesheets/cat-14.json"
+    },
+    {
+      "species_id": 14,
+      "file": "assets/spritesheets/cat-15.png",
+      "metadata": "assets/spritesheets/cat-15.json"
+    },
+    {
+      "species_id": 15,
+      "file": "assets/spritesheets/cat-16.png",
+      "metadata": "assets/spritesheets/cat-16.json"
+    },
+    {
+      "species_id": 16,
+      "file": "assets/spritesheets/cat-17.png",
+      "metadata": "assets/spritesheets/cat-17.json"
+    },
+    {
+      "species_id": 17,
+      "file": "assets/spritesheets/cat-18.png",
+      "metadata": "assets/spritesheets/cat-18.json"
+    },
+    {
+      "species_id": 18,
+      "file": "assets/spritesheets/cat-19.png",
+      "metadata": "assets/spritesheets/cat-19.json"
+    },
+    {
+      "species_id": 19,
+      "file": "assets/spritesheets/cat-20.png",
+      "metadata": "assets/spritesheets/cat-20.json"
+    },
+    {
+      "species_id": 20,
+      "file": "assets/spritesheets/cat-21.png",
+      "metadata": "assets/spritesheets/cat-21.json"
+    },
+    {
+      "species_id": 21,
+      "file": "assets/spritesheets/cat-22.png",
+      "metadata": "assets/spritesheets/cat-22.json"
+    },
+    {
+      "species_id": 22,
+      "file": "assets/spritesheets/cat-23.png",
+      "metadata": "assets/spritesheets/cat-23.json"
+    },
+    {
+      "species_id": 23,
+      "file": "assets/spritesheets/cat-24.png",
+      "metadata": "assets/spritesheets/cat-24.json"
+    },
+    {
+      "species_id": 24,
+      "file": "assets/spritesheets/cat-25.png",
+      "metadata": "assets/spritesheets/cat-25.json"
+    },
+    {
+      "species_id": 25,
+      "file": "assets/spritesheets/cat-26.png",
+      "metadata": "assets/spritesheets/cat-26.json"
+    },
+    {
+      "species_id": 26,
+      "file": "assets/spritesheets/cat-27.png",
+      "metadata": "assets/spritesheets/cat-27.json"
+    },
+    {
+      "species_id": 27,
+      "file": "assets/spritesheets/cat-28.png",
+      "metadata": "assets/spritesheets/cat-28.json"
+    },
+    {
+      "species_id": 28,
+      "file": "assets/spritesheets/cat-29.png",
+      "metadata": "assets/spritesheets/cat-29.json"
+    },
+    {
+      "species_id": 29,
+      "file": "assets/spritesheets/cat-30.png",
+      "metadata": "assets/spritesheets/cat-30.json"
+    }
+  ]
+}
