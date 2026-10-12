@@ -1,0 +1,188 @@
+{
+  "date": "2026-10-12T08:04:24.135Z",
+  "breeds": 30,
+  "totalFrames": 480,
+  "checks": "Every frame is nonempty, contains real transparency and differs from all other frames of the same cat. All thirty PNGs decode at 1024x1024 in Chrome.",
+  "results": [
+    {
+      "file": "assets/cat-animations/cat-01.png",
+      "frames": 16,
+      "transparent": true,
+      "distinctFrames": 16
+    },
+    {
+      "file": "assets/cat-animations/cat-02.png",
+      "frames": 16,
+      "transparent": true,
+      "distinctFrames": 16
+    },
+    {
+      "file": "assets/cat-animations/cat-03.png",
+      "frames": 16,
+      "transparent": true,
+      "distinctFrames": 16
+    },
+    {
+      "file": "assets/cat-animations/cat-04.png",
+      "frames": 16,
+      "transparent": true,
+      "distinctFrames": 16
+    },
+    {
+      "file": "assets/cat-animations/cat-05.png",
+      "frames": 16,
+      "transparent": true,
+      "distinctFrames": 16
+    },
+    {
+      "file": "assets/cat-animations/cat-06.png",
+      "frames": 16,
+      "transparent": true,
+      "distinctFrames": 16
+    },
+    {
+      "file": "assets/cat-animations/cat-07.png",
+      "frames": 16,
+      "transparent": true,
+      "distinctFrames": 16
+    },
+    {
+      "file": "assets/cat-animations/cat-08.png",
+      "frames": 16,
+      "transparent": true,
+      "distinctFrames": 16
+    },
+    {
+      "file": "assets/cat-animations/cat-09.png",
+      "frames": 16,
+      "transparent": true,
+      "distinctFrames": 16
+    },
+    {
+      "file": "assets/cat-animations/cat-10.png",
+      "frames": 16,
+      "transparent": true,
+      "distinctFrames": 16
+    },
+    {
+      "file": "assets/cat-animations/cat-11.png",
+      "frames": 16,
+      "transparent": true,
+      "distinctFrames": 16
+    },
+    {
+      "file": "assets/cat-animations/cat-12.png",
+      "frames": 16,
+      "transparent": true,
+      "distinctFrames": 16
+    },
+    {
+      "file": "assets/cat-animations/cat-13.png",
+      "frames": 16,
+      "transparent": true,
+      "distinctFrames": 16
+    },
+    {
+      "file": "assets/cat-animations/cat-14.png",
+      "frames": 16,
+      "transparent": true,
+      "distinctFrames": 16
+    },
+    {
+      "file": "assets/cat-animations/cat-15.png",
+      "frames": 16,
+      "transparent": true,
+      "distinctFrames": 16
+    },
+    {
+      "file": "assets/cat-animations/cat-16.png",
+      "frames": 16,
+      "transparent": true,
+      "distinctFrames": 16
+    },
+    {
+      "file": "assets/cat-animations/cat-17.png",
+      "frames": 16,
+      "transparent": true,
+      "distinctFrames": 16
+    },
+    {
+      "file": "assets/cat-animations/cat-18.png",
+      "frames": 16,
+      "transparent": true,
+      "distinctFrames": 16
+    },
+    {
+      "file": "assets/cat-animations/cat-19.png",
+      "frames": 16,
+      "transparent": true,
+      "distinctFrames": 16
+    },
+    {
+      "file": "assets/cat-animations/cat-20.png",
+      "frames": 16,
+      "transparent": true,
+      "distinctFrames": 16
+    },
+    {
+      "file": "assets/cat-animations/cat-21.png",
+      "frames": 16,
+      "transparent": true,
+      "distinctFrames": 16
+    },
+    {
+      "file": "assets/cat-animations/cat-22.png",
+      "frames": 16,
+      "transparent": true,
+      "distinctFrames": 16
+    },
+    {
+      "file": "assets/cat-animations/cat-23.png",
+      "frames": 16,
+      "transparent": true,
+      "distinctFrames": 16
+    },
+    {
+      "file": "assets/cat-animations/cat-24.png",
+      "frames": 16,
+      "transparent": true,
+      "distinctFrames": 16
+    },
+    {
+      "file": "assets/cat-animations/cat-25.png",
+      "frames": 16,
+      "transparent": true,
+      "distinctFrames": 16
+    },
+    {
+      "file": "assets/cat-animations/cat-26.png",
+      "frames": 16,
+      "transparent": true,
+      "distinctFrames": 16
+    },
+    {
+      "file": "assets/cat-animations/cat-27.png",
+      "frames": 16,
+      "transparent": true,
+      "distinctFrames": 16
+    },
+    {
+      "file": "assets/cat-animations/cat-28.png",
+      "frames": 16,
+      "transparent": true,
+      "distinctFrames": 16
+    },
+    {
+      "file": "assets/cat-animations/cat-29.png",
+      "frames": 16,
+      "transparent": true,
+      "distinctFrames": 16
+    },
+    {
+      "file": "assets/cat-animations/cat-30.png",
+      "frames": 16,
+      "transparent": true,
+      "distinctFrames": 16
+    }
+  ]
+}

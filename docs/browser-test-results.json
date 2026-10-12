@@ -1,5 +1,6 @@
 {
-  "browser": "Microsoft Edge / Chromium",
+  "browser": "Google Chrome / Chromium",
+  "protocol": "file://",
   "desktop": "1440x1000",
   "mobile": "390x844",
   "results": [
@@ -13,7 +14,7 @@
     "30种猫咪、动作档案、筛选与搜索正常",
     "领养、四张地图试玩、正式存档隔离正常",
     "五条六级合成链素材加载",
-    "存档导出与导入成功",
+    "导出存档JSON内容校验与文件导入成功（下载落盘由浏览器处理）",
     "390px移动布局无横向溢出",
     "触屏双点合成正常",
     "无需服务器，直接打开index.html也可运行",

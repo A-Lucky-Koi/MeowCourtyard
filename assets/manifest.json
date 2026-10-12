@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "generator": "Built-in image_gen",
   "cats": [
     {
@@ -3168,6 +3168,436 @@
       "species_id": 29,
       "file": "assets/spritesheets/cat-30.png",
       "metadata": "assets/spritesheets/cat-30.json"
+    }
+  ],
+  "animations": [
+    {
+      "species_id": 0,
+      "file": "assets/cat-animations/cat-01.png",
+      "metadata": "assets/cat-animations/cat-01.json",
+      "width": 1024,
+      "height": 1024,
+      "columns": 4,
+      "rows": 4,
+      "frameCount": 16,
+      "actions": {
+        "walk": 8,
+        "eat": 8
+      }
+    },
+    {
+      "species_id": 1,
+      "file": "assets/cat-animations/cat-02.png",
+      "metadata": "assets/cat-animations/cat-02.json",
+      "width": 1024,
+      "height": 1024,
+      "columns": 4,
+      "rows": 4,
+      "frameCount": 16,
+      "actions": {
+        "walk": 8,
+        "eat": 8
+      }
+    },
+    {
+      "species_id": 2,
+      "file": "assets/cat-animations/cat-03.png",
+      "metadata": "assets/cat-animations/cat-03.json",
+      "width": 1024,
+      "height": 1024,
+      "columns": 4,
+      "rows": 4,
+      "frameCount": 16,
+      "actions": {
+        "walk": 8,
+        "eat": 8
+      }
+    },
+    {
+      "species_id": 3,
+      "file": "assets/cat-animations/cat-04.png",
+      "metadata": "assets/cat-animations/cat-04.json",
+      "width": 1024,
+      "height": 1024,
+      "columns": 4,
+      "rows": 4,
+      "frameCount": 16,
+      "actions": {
+        "walk": 8,
+        "eat": 8
+      }
+    },
+    {
+      "species_id": 4,
+      "file": "assets/cat-animations/cat-05.png",
+      "metadata": "assets/cat-animations/cat-05.json",
+      "width": 1024,
+      "height": 1024,
+      "columns": 4,
+      "rows": 4,
+      "frameCount": 16,
+      "actions": {
+        "walk": 8,
+        "eat": 8
+      }
+    },
+    {
+      "species_id": 5,
+      "file": "assets/cat-animations/cat-06.png",
+      "metadata": "assets/cat-animations/cat-06.json",
+      "width": 1024,
+      "height": 1024,
+      "columns": 4,
+      "rows": 4,
+      "frameCount": 16,
+      "actions": {
+        "walk": 8,
+        "eat": 8
+      }
+    },
+    {
+      "species_id": 6,
+      "file": "assets/cat-animations/cat-07.png",
+      "metadata": "assets/cat-animations/cat-07.json",
+      "width": 1024,
+      "height": 1024,
+      "columns": 4,
+      "rows": 4,
+      "frameCount": 16,
+      "actions": {
+        "walk": 8,
+        "eat": 8
+      }
+    },
+    {
+      "species_id": 7,
+      "file": "assets/cat-animations/cat-08.png",
+      "metadata": "assets/cat-animations/cat-08.json",
+      "width": 1024,
+      "height": 1024,
+      "columns": 4,
+      "rows": 4,
+      "frameCount": 16,
+      "actions": {
+        "walk": 8,
+        "eat": 8
+      }
+    },
+    {
+      "species_id": 8,
+      "file": "assets/cat-animations/cat-09.png",
+      "metadata": "assets/cat-animations/cat-09.json",
+      "width": 1024,
+      "height": 1024,
+      "columns": 4,
+      "rows": 4,
+      "frameCount": 16,
+      "actions": {
+        "walk": 8,
+        "eat": 8
+      }
+    },
+    {
+      "species_id": 9,
+      "file": "assets/cat-animations/cat-10.png",
+      "metadata": "assets/cat-animations/cat-10.json",
+      "width": 1024,
+      "height": 1024,
+      "columns": 4,
+      "rows": 4,
+      "frameCount": 16,
+      "actions": {
+        "walk": 8,
+        "eat": 8
+      }
+    },
+    {
+      "species_id": 10,
+      "file": "assets/cat-animations/cat-11.png",
+      "metadata": "assets/cat-animations/cat-11.json",
+      "width": 1024,
+      "height": 1024,
+      "columns": 4,
+      "rows": 4,
+      "frameCount": 16,
+      "actions": {
+        "walk": 8,
+        "eat": 8
+      }
+    },
+    {
+      "species_id": 11,
+      "file": "assets/cat-animations/cat-12.png",
+      "metadata": "assets/cat-animations/cat-12.json",
+      "width": 1024,
+      "height": 1024,
+      "columns": 4,
+      "rows": 4,
+      "frameCount": 16,
+      "actions": {
+        "walk": 8,
+        "eat": 8
+      }
+    },
+    {
+      "species_id": 12,
+      "file": "assets/cat-animations/cat-13.png",
+      "metadata": "assets/cat-animations/cat-13.json",
+      "width": 1024,
+      "height": 1024,
+      "columns": 4,
+      "rows": 4,
+      "frameCount": 16,
+      "actions": {
+        "walk": 8,
+        "eat": 8
+      }
+    },
+    {
+      "species_id": 13,
+      "file": "assets/cat-animations/cat-14.png",
+      "metadata": "assets/cat-animations/cat-14.json",
+      "width": 1024,
+      "height": 1024,
+      "columns": 4,
+      "rows": 4,
+      "frameCount": 16,
+      "actions": {
+        "walk": 8,
+        "eat": 8
+      }
+    },
+    {
+      "species_id": 14,
+      "file": "assets/cat-animations/cat-15.png",
+      "metadata": "assets/cat-animations/cat-15.json",
+      "width": 1024,
+      "height": 1024,
+      "columns": 4,
+      "rows": 4,
+      "frameCount": 16,
+      "actions": {
+        "walk": 8,
+        "eat": 8
+      }
+    },
+    {
+      "species_id": 15,
+      "file": "assets/cat-animations/cat-16.png",
+      "metadata": "assets/cat-animations/cat-16.json",
+      "width": 1024,
+      "height": 1024,
+      "columns": 4,
+      "rows": 4,
+      "frameCount": 16,
+      "actions": {
+        "walk": 8,
+        "eat": 8
+      }
+    },
+    {
+      "species_id": 16,
+      "file": "assets/cat-animations/cat-17.png",
+      "metadata": "assets/cat-animations/cat-17.json",
+      "width": 1024,
+      "height": 1024,
+      "columns": 4,
+      "rows": 4,
+      "frameCount": 16,
+      "actions": {
+        "walk": 8,
+        "eat": 8
+      }
+    },
+    {
+      "species_id": 17,
+      "file": "assets/cat-animations/cat-18.png",
+      "metadata": "assets/cat-animations/cat-18.json",
+      "width": 1024,
+      "height": 1024,
+      "columns": 4,
+      "rows": 4,
+      "frameCount": 16,
+      "actions": {
+        "walk": 8,
+        "eat": 8
+      }
+    },
+    {
+      "species_id": 18,
+      "file": "assets/cat-animations/cat-19.png",
+      "metadata": "assets/cat-animations/cat-19.json",
+      "width": 1024,
+      "height": 1024,
+      "columns": 4,
+      "rows": 4,
+      "frameCount": 16,
+      "actions": {
+        "walk": 8,
+        "eat": 8
+      }
+    },
+    {
+      "species_id": 19,
+      "file": "assets/cat-animations/cat-20.png",
+      "metadata": "assets/cat-animations/cat-20.json",
+      "width": 1024,
+      "height": 1024,
+      "columns": 4,
+      "rows": 4,
+      "frameCount": 16,
+      "actions": {
+        "walk": 8,
+        "eat": 8
+      }
+    },
+    {
+      "species_id": 20,
+      "file": "assets/cat-animations/cat-21.png",
+      "metadata": "assets/cat-animations/cat-21.json",
+      "width": 1024,
+      "height": 1024,
+      "columns": 4,
+      "rows": 4,
+      "frameCount": 16,
+      "actions": {
+        "walk": 8,
+        "eat": 8
+      }
+    },
+    {
+      "species_id": 21,
+      "file": "assets/cat-animations/cat-22.png",
+      "metadata": "assets/cat-animations/cat-22.json",
+      "width": 1024,
+      "height": 1024,
+      "columns": 4,
+      "rows": 4,
+      "frameCount": 16,
+      "actions": {
+        "walk": 8,
+        "eat": 8
+      }
+    },
+    {
+      "species_id": 22,
+      "file": "assets/cat-animations/cat-23.png",
+      "metadata": "assets/cat-animations/cat-23.json",
+      "width": 1024,
+      "height": 1024,
+      "columns": 4,
+      "rows": 4,
+      "frameCount": 16,
+      "actions": {
+        "walk": 8,
+        "eat": 8
+      }
+    },
+    {
+      "species_id": 23,
+      "file": "assets/cat-animations/cat-24.png",
+      "metadata": "assets/cat-animations/cat-24.json",
+      "width": 1024,
+      "height": 1024,
+      "columns": 4,
+      "rows": 4,
+      "frameCount": 16,
+      "actions": {
+        "walk": 8,
+        "eat": 8
+      }
+    },
+    {
+      "species_id": 24,
+      "file": "assets/cat-animations/cat-25.png",
+      "metadata": "assets/cat-animations/cat-25.json",
+      "width": 1024,
+      "height": 1024,
+      "columns": 4,
+      "rows": 4,
+      "frameCount": 16,
+      "actions": {
+        "walk": 8,
+        "eat": 8
+      }
+    },
+    {
+      "species_id": 25,
+      "file": "assets/cat-animations/cat-26.png",
+      "metadata": "assets/cat-animations/cat-26.json",
+      "width": 1024,
+      "height": 1024,
+      "columns": 4,
+      "rows": 4,
+      "frameCount": 16,
+      "actions": {
+        "walk": 8,
+        "eat": 8
+      }
+    },
+    {
+      "species_id": 26,
+      "file": "assets/cat-animations/cat-27.png",
+      "metadata": "assets/cat-animations/cat-27.json",
+      "width": 1024,
+      "height": 1024,
+      "columns": 4,
+      "rows": 4,
+      "frameCount": 16,
+      "actions": {
+        "walk": 8,
+        "eat": 8
+      }
+    },
+    {
+      "species_id": 27,
+      "file": "assets/cat-animations/cat-28.png",
+      "metadata": "assets/cat-animations/cat-28.json",
+      "width": 1024,
+      "height": 1024,
+      "columns": 4,
+      "rows": 4,
+      "frameCount": 16,
+      "actions": {
+        "walk": 8,
+        "eat": 8
+      }
+    },
+    {
+      "species_id": 28,
+      "file": "assets/cat-animations/cat-29.png",
+      "metadata": "assets/cat-animations/cat-29.json",
+      "width": 1024,
+      "height": 1024,
+      "columns": 4,
+      "rows": 4,
+      "frameCount": 16,
+      "actions": {
+        "walk": 8,
+        "eat": 8
+      }
+    },
+    {
+      "species_id": 29,
+      "file": "assets/cat-animations/cat-30.png",
+      "metadata": "assets/cat-animations/cat-30.json",
+      "width": 1024,
+      "height": 1024,
+      "columns": 4,
+      "rows": 4,
+      "frameCount": 16,
+      "actions": {
+        "walk": 8,
+        "eat": 8
+      }
+    }
+  ],
+  "ui": [
+    {
+      "file": "assets/ui/generator-basket.png",
+      "width": 256,
+      "height": 256,
+      "role": "Five basket generators share this illustration, with each chain item overlaid."
     }
   ]
 }
